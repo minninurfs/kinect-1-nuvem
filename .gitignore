@@ -1,0 +1,7 @@
+build/
+kinect_cloud
+kinect_snap
+*.ply
+*.mp4
+*.mov
+.DS_Store
